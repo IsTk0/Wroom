@@ -1,0 +1,13 @@
+RST (Reset) -> GPIO 16 (DTR)
+
+CS (Chip Select) -> GPIO 5
+
+DS (Data/Command) -> GPIO 23
+
+SDA (MOSI) -> GPIO 13
+
+SCL (SCK) -> GPIO 14
+
+GND -> GND
+
+VCC -> 3.3V
